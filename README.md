@@ -7,8 +7,9 @@ Through the 7th module in the data analytics course, we were tasked with buildin
 
   -![se![ChallengeStep11](https://user-images.githubusercontent.com/88443672/146457543-12992494-8aa9-4f92-a9b2-c840c1d1dec7.png)
 
-![selectcount](https://user-images.githubusercontent.com/88443672/146457659-d56738e8-e3bf-49c9-9e18-68efb9ab75a6.png)
-![SelectCountModule](https://user-images.githubusercontent.com/88443672/146457534-3d923608-bc4a-4c75-a808-7b5c5ea286c3.png)
+-
+![selectcount](https://user-images.githubusercontent.com/88443672/146457837-5751e91d-b6b4-4c5b-8415-af3830788120.png)
+![SelectCountModule](https://user-images.githubusercontent.com/88443672/146457846-d64258e8-5990-48a4-86a6-15c79fbb9bfd.png)
 
   -
   -
