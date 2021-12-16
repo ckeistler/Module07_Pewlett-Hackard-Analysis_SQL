@@ -5,7 +5,7 @@ Through the 7th module in the data analytics course, we were tasked with buildin
 
 ## Results
 
-  -![se![ChallengeStep11](https://user-images.githubusercontent.com/88443672/146457543-12992494-8aa9-4f92-a9b2-c840c1d1dec7.png)
+  -![ChallengeStep11](https://user-images.githubusercontent.com/88443672/146457543-12992494-8aa9-4f92-a9b2-c840c1d1dec7.png)
 
 -
 ![selectcount](https://user-images.githubusercontent.com/88443672/146457837-5751e91d-b6b4-4c5b-8415-af3830788120.png)
