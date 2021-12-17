@@ -22,5 +22,12 @@ Through the 7th module in the data analytics course, we were tasked with buildin
 
 ![D32](https://user-images.githubusercontent.com/88443672/146578333-9b434675-67e6-46ad-9938-759cac1bb5f4.png)![D33](https://user-images.githubusercontent.com/88443672/146578344-92f277f1-0a36-4d68-ae49-e048cf86559a.png)
 
+There are 33,118 employees that have birth years between 1952 and 1955 (13.79% of the current employee pool).  With only 1,547 mentorship eligible employees, it feels like a tall task given the 20/1 ratio of employees with birth years between 1952 and 1955 versus mentorship eligible employees.
 
+- 15.88% of all "Senior Engineers" fall into the 1952-1955 range
+- 15.69% of all "Senior Staff" fall into the 1952-1955 range
+- 8.75% of all "Engineers" fall into the 1952-1955 range
+- 7.92% of all "Staff" fall into the 1952-1955 range
+- 13.35% of all "Technique Leaders" fall into the 1952-1955 range
+- 22.22% of all "Managers" fall into the 1952-1955 range
 
