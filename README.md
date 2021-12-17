@@ -18,3 +18,9 @@ Through the 7th module in the data analytics course, we were tasked with buildin
 - Regardless of using step 11 or not, the results in both instances show ~50% of the employees identified as nearing retirement as an Engineer of some form.
   
 ## Summary
+![D31](https://user-images.githubusercontent.com/88443672/146578318-907ea599-1f6d-459c-adaf-7aa588d0a45e.png)
+
+![D32](https://user-images.githubusercontent.com/88443672/146578333-9b434675-67e6-46ad-9938-759cac1bb5f4.png)![D33](https://user-images.githubusercontent.com/88443672/146578344-92f277f1-0a36-4d68-ae49-e048cf86559a.png)
+
+
+
